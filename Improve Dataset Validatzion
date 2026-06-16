@@ -1,0 +1,10 @@
+Summary:
+Added dataset validation before training.
+
+Changes:
+- Null value detection
+- Duplicate row detection
+- Schema validation
+
+Testing:
+Validated multiple sample datasets.
